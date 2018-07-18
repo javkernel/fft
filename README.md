@@ -1,17 +1,17 @@
 # How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/teamsyntaxid/ig-syntax.git
-	* cd ig-syntax
-	* unzip node_modules.zip
+	* git clone https://github.com/javkernel/fft.git
+	* cd fft
+	* npm install
 <br/>
 
 # For PC/Laptop ONLY:
 	* Download GIT for Windows		(https://git-scm.com/download/)		*Choose WIN & 32bit/64bit
 	* Download NodeJS 			(https://nodejs.org/en/download/) 	*Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
-	* Download File ig-syntax on Github 	(https://github.com/teamsyntaxid/ig-syntax.git)
-	* Extract File ig-syntax and enter the folder
+	* Download File fft on Github 	(https://github.com/javkernel/fft.git)
+	* Extract File fft and enter the folder
 	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the ig-syntax folder!!!)
-	* Then type: unzip node_modules.zip
+	* Then npm install
 	* To View The Contents Of a folder in bash, type: "ls" (without "")
 	* To Run The Program in bash, type: "node namefile.js" or "node namefile" (without "")
 <br/>
@@ -21,9 +21,9 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/teamsyntaxid/ig-syntax.git
-	* cd ig-syntax
-	* unzip node_modules.zip
+	* git clone https://github.com/javkernel/fft.git
+	* cd fft
+	* npm install
 	* To View The Contents Of a folder in bash, type: "ls" (without "")
 	* To Run The Program in bash, type: "node namefile.js" or "node namefile" (without "")
 <br/>
